@@ -85,23 +85,7 @@ venv.bak/
 Thumbs.db
 Desktop.ini
 
-# Model files (too large for git)
-*.bin
-*.pt
-*.pth
-*.safetensors
-*.ckpt
-checkpoints/
-models/
-*.h5
 
-# Data files
-*.json
-!configs/*.json
-data/
-datasets/
-*.csv
-*.parquet
 
 # Logs
 logs/
