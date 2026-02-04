@@ -451,8 +451,7 @@ No acute cardiopulmonary abnormality.
 1. Liu et al., "Visual Instruction Tuning" (LLaVA), NeurIPS 2023
 2. Radford et al., "CLIP: Learning Transferable Visual Models", ICML 2021
 3. Boecking et al., "BioViL: Self-Supervised Vision-Language Pretraining for Radiology", ICCV 2022
-4. [XrayGPT](https://github.com/mbzuai-oryx/XrayGPT) - Chest Radiograph Summarization
-5. [PEFT](https://github.com/huggingface/peft) - Parameter-Efficient Fine-Tuning
+4. [PEFT](https://github.com/huggingface/peft) - Parameter-Efficient Fine-Tuning
 
 ---
 
